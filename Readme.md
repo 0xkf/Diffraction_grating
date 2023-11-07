@@ -6,11 +6,17 @@
 ```
 環境構築
 ①Install python3
-②pip install math
+
+brew install python
+python --version
+<!-- 必要であれば、pathを通す -->
+
+②pip3 install math
 
 変数の設定
 
-③edit input array in  physics_report.py
+③inputするパラメータを直接入力。
+edit input array in  physics_report.py
 
 angle_pairs = [
     # ((6, 46, 00), (6, 46, 30)),
@@ -28,7 +34,8 @@ angle_pairs = [
     ((70, 10, 30), (70, 42, 30)),
 ]
 
-④edit the number m in  physics_report.py
+④強め合う波長の次数を手動で変更
+edit the number m in  physics_report.py
     m = 8  # 
 
 プログラムの実行
