@@ -3,7 +3,8 @@
 
  # https://github.com/0xkf/Diffraction_grating
 
-```環境構築
+```
+環境構築
 ①Install python3
 ②pip install math
 ```変数の設定
