@@ -7,7 +7,8 @@
 環境構築
 ①Install python3
 ②pip install math
-```変数の設定
+
+変数の設定
 
 ③edit input array in  physics_report.py
 
@@ -30,7 +31,7 @@ angle_pairs = [
 ④edit the number m in  physics_report.py
     m = 8  # 
 
-```プログラムの実行
+プログラムの実行
 ⑤python3 physics_report.py
 
 ```
